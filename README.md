@@ -8,7 +8,7 @@ This is a web based application developed for health related based website in US
 
 **Project Link** --> https://thankful-flower-0668bca00.5.azurestaticapps.net
 
-**project demo video link** --> 
+**project demo video link** --> https://youtu.be/SKK8KUdISv8?si=37DTt16j4a9EWr22
 
 ## Azure technologies used for Project ⚙️
 
